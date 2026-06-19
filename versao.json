@@ -1,5 +1,5 @@
 {
-    "versao": "1.0.0",
-    "url": "https://github.com/gwouchan/Gerenciador_PDF/releases/download/v1.0.0/GerenciadorPDF-Instalador.v1.0.0.exe",
-    "notas": "Criação do gerenciador de pdf:\n renomeia em lote;\njunta pdf;\ndivide pdf;\nassina com certificado digital."
+    "versao": "1.1.0",
+    "url": "https://github.com/gwouchan/Gerenciador_PDF/releases/download/v1.1.0/GerenciadorPDF-Instalador.v1.1.0.exe",
+    "notas": "Melhoria na assinatura e agora se voce opta por deixar o leiaute claro, ao iniciar, ele vai manter a configuração."
 }
