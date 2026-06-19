@@ -1,5 +1,5 @@
 {
-    "versao": "1.1.0",
-    "url": "https://seusite.com/downloads/GerenciadorPDF-Instalador.exe",
-    "notas": "- Correções de desempenho\n- Assinatura múltipla com Ctrl\n- Pequenos ajustes visuais"
+    "versao": "1.0.0",
+    "url": "https://github.com/gwouchan/Gerenciador_PDF/releases/download/v1.0.0/GerenciadorPDF-Instalador.v1.0.0.exe",
+    "notas": "Criação do gerenciador de pdf:\n renomeia em lote;\njunta pdf;\ndivide pdf;\nassina com certificado digital."
 }
